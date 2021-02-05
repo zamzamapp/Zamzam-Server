@@ -1,5 +1,7 @@
-Signal-Server
+Zamzam-Server
 =================
+
+The Zamzam application server is built with the signal kernel..
 
 Documentation
 -------------
